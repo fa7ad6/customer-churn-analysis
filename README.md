@@ -5,6 +5,7 @@ I’m excited to share my latest project where I explored Customer Churn Analysi
 In today’s competitive market, understanding why customers leave is critical — and this project focuses on uncovering those insights and building predictive models to address them.
 
 🔍 What I Did
+
 ✅ Performed detailed Exploratory Data Analysis (EDA) to understand customer behavior
 ✅ Identified key factors influencing churn such as contract type, tenure, and pricing
 ✅ Cleaned and transformed real-world messy data
